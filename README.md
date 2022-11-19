@@ -9,7 +9,7 @@ Team ID : PNT2022TMID09385
 <ul><i>
   <li> Varsha V </li>
   <li> Solana Appalo A M </li>
-  <li> Tarunaa R K </li>
+  <li> Tarunaa R K - tarunaa004 </li>
   <li> Sarath Babu N - sarathbabun2002 </li>
   </i>
   </ul>
